@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Python, C, C++, C#**
 
-- 📫 How to reach me **deluriajustine.design@gmail.com**
+- 📫 How to reach me **jrdcdeluria@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
