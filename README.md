@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Justine</h1>
 <img align="right" alt="Coding" width="400" src='https://media.giphy.com/media/4NpDHE7DSnDGVi13qA/giphy.gif'>
 
-<h3 align="center">As a student programmer based in the Philippines, I've delved into the realms of HTML, CSS, JavaScript, and Python. These languages have not only been tools in my coding arsenal but also stepping stones in my programming journey. However, I am not content to stop there. I possess a hunger for learning and an eagerness to explore additional languages. Embracing the challenge of mastering new tools, I am committed to continuous improvement and growth in the ever-evolving landscape of programming.</h3>
+<h3 align="center">As a UI/UX designer based in the Philippines, I love turning complex ideas into simple, beautiful digital experiences. While my main focus is on crafting user-friendly designs, I also have a handy background in web development using HTML, CSS, JavaScript, and Python. Knowing how to code helps me design with both empathy and practicality, making sure my ideas are easy to bring to life. Always eager to learn and grow, I am constantly exploring new ways to make the digital world a little more seamless and human.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delurs&label=Profile%20views&color=0e75b6&style=flat" alt="delurs" /> </p>
 
